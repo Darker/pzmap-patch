@@ -1,0 +1,1 @@
+node ../resourcerefresher/refresh.js D:\web\pzmap\pzmap.js D:\web\pzmap\styles.css +start
